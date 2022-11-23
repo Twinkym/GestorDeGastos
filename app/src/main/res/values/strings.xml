@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GestorDeGastos</string>
+    <string name="login">Login</string>
+    <string name="addcustomer">ADDCustomer</string>
+    <string name="gestor_de_gastos">Gestor_de_Gastos</string>
+    <string name="left"><![CDATA[<]]></string>
+    <string name="right"><![CDATA[>]]></string>
+    <string name="image_switcher_example">Image Switcher Example</string>
+</resources>
